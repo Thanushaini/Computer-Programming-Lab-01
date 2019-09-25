@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    cout << "University : Universiti Teknikal Malaysia, Melaka\n";
+        cout << "University : Universiti Teknikal Malaysia, Melaka\n";
 	cout << "Faculty : FTMK\n";
 	cout << "Programme : BITI\n";
 	cout << "\n";
